@@ -1,4 +1,4 @@
-#  (OpenMusic) SoTA Text-to-music (TTM) generation: QA-MDT
+#  SoTA Text-to-music (TTM) generation: QA-MDT
 
 ## We have succeeded in extending our model to infinite-long-form music generation in a zero-shot manner by [yusheng dai](https://github.com/dalision), and we will update it soon.
 
