@@ -1,6 +1,6 @@
 #  SoTA Text-to-music (TTM) generation: QA-MDT
 
-## We have succeeded in extending our model to inf-long music generation in a [zero-shot manner](https://github.com/dalision)
+### We have succeeded in extending our model to inf-long music generation in a [zero-shot manner](https://github.com/dalision)
 
 ### Official Pytorch Implementation (try our demo first!)
 
