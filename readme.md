@@ -1,6 +1,6 @@
 ## SoTA Text-to-Music (TTM) Generation: QA-MDT
 
-accepted at IJCAI-25
+Paper accepted at IJCAI-25
 
 ### Official PyTorch Implementation (try our demo first!)
 
