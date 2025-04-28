@@ -1,12 +1,11 @@
-#  SoTA Text-to-music (TTM) generation: QA-MDT
+## SoTA Text-to-Music (TTM) Generation: QA-MDT
 
-### Official Pytorch Implementation (try our demo first!)
+### Official PyTorch Implementation (try our demo first!)
 
-<a href="https://arxiv.org/pdf/2405.15863"><img src="https://img.shields.io/static/v1?label=Paper&message=arXiv.2405&color=red&logo=arXiv"></a> &ensp;
-<a href="https://qa-mdt.github.io/"><img src="https://img.shields.io/static/v1?label=Demo! really nice audio samples&message=QA-MDT&color=purple&logo=github.io"></a> &ensp;
-<a href="https://huggingface.co/lichang0928/QA-MDT"><img src="https://img.shields.io/static/v1?label=CKPT&message=huggingface&color=yellow&logo=huggingface.co"></a> &ensp;
-
-[<a href=""><img src="https://img.shields.io/static/v1?label=魔塔社区 demo &message=ModelScope&color=blue&logo=魔塔社区"></a> &ensp;](https://www.modelscope.cn/studios/paper_author_team/OpenMusic_demo)
+[![Paper](https://img.shields.io/static/v1?label=Paper&message=arXiv.2405&color=red&logo=arxiv)](https://arxiv.org/pdf/2405.15863)
+[![Demo! really nice audio samples](https://img.shields.io/static/v1?label=Demo!%20really%20nice%20audio%20samples&message=QA-MDT&color=purple&logo=githubdotio)](https://qa-mdt.github.io/)
+[![CKPT](https://img.shields.io/static/v1?label=CKPT&message=huggingface&color=yellow&logo=huggingface)](https://huggingface.co/lichang0928/QA-MDT)
+[![魔塔社区 demo](https://img.shields.io/static/v1?label=%E9%AD%94%E5%A1%94%E7%A4%BE%E5%8C%BA%20demo&message=ModelScope&color=blue&logo=modelscope)](https://www.modelscope.cn/studios/paper_author_team/OpenMusic_demo)
 
 [![Quality-Aware Masked Diffusion Transformer](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/quality-aware-masked-diffusion-transformer/music-generation-on-song-describer-dataset)]([https://paperswithcode.com/paper/music-generation-on-song-describer-dataset](https://paperswithcode.com/badge/quality-aware-masked-diffusion-transformer/text-to-music-generation-on-musiccaps))
 
