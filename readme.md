@@ -15,7 +15,7 @@ Paper accepted at IJCAI-25
 
 
 
-(Trying to support audio-to-audio generation is in my todo list, such that you can input music tracks and the LDM will help merge them~)
+(Trying to support audio-to-audio generation is in my todo list, such that you can input music track and the LDM will help merge them~)
 
 ### We have succeeded in extending our model to inf-long music generation in a zero-shot manner
 <a href="https://arxiv.org/pdf/2502.05130"><img src="https://img.shields.io/static/v1?label=Paper&message=arXiv.2502&color=red&logo=arXiv"></a> &ensp;
